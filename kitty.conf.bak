@@ -1,0 +1,11 @@
+# BEGIN_KITTY_THEME
+# Black Metal
+include current-theme.conf
+# END_KITTY_THEME
+
+disable_ligatures always
+font_family Fira Code
+input_delay 0
+repaint_delay 2
+sync_to_monitor no
+wayland_enable_ime no
